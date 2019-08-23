@@ -28,3 +28,8 @@ A boilerplate template to get started with GTK, Rust, Meson, Flatpak made for GN
 - [Podcasts](https://gitlab.gnome.org/World/podcasts)
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave)
 
+~~~
+[remote "origin"]
+	url = https://gitlab.gnome.org/bilelmoussaoui/gtk-rust-template.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+~~~
